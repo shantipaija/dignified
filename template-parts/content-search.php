@@ -5,7 +5,7 @@
 			<h2 class="entr y-title search-title "><a href="<?php the_permalink(); ?>" rel="bookmark"><?php the_title(); ?></a></h2>
             <div class="search-url"><?php the_permalink(); ?></div>
 			<div class="entry-meta search-entry-meta">
-				<?php dignified_posted_on(); ?>
+				<?php //dignified_posted_on(); ?>
 
 				<?php
 					/* translators: used between list items, there is a space after the comma */
