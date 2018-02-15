@@ -467,7 +467,7 @@ if (! function_exists('get_customcolor')) :
 
         $desc_color         = of_get_option('header_text_color');
 
-        $customcolor        = (strlen($des_color)>3) ? "<style>.site-description{color:$desc_color;}</style>" : "" ;
+        $customcolor        = (strlen($desc_color)>3) ? "<style>.site-description{color:$desc_color;}</style>" : "" ;
 
         echo $customcolor;
 
