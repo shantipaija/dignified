@@ -2,7 +2,7 @@
 Theme Name: dignified
 Theme URI: https://wp.login.plus/dignified/
 Version: 1.0.1
-Tested up to: WP 4.8
+Tested up to: WP 4.9.4
 
 Author: Shanti Paija
 Author URI: https://login.plus/
